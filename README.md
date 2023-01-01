@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R3d-Baron, Original Name : Arnab Ghosh; Male; 26+
 - 👀 I’m interested in : Web developement.
-- 🌱 I know : HTML-5, CSS-3, Javascript(ES-6), J-query(basics), PHP-7, MySQL, Wordpress(basics), Angular-14.
+- 🌱 I know : MEAN Stack || LAMP stack || MySql || MongoDB || HTML-5 || CSS-3 || JS (ES-6) || jQuery || AJAX
 - 💞️ I’m looking to collaborate on : projects on the above-mentioned topics.
 - 📫 How to reach me: 
         Email me @ arnabtinku@gmail.com ; 
