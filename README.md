@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R3d-Baron, Original Name : Arnab Ghosh; Male; 26+;
-- 💻 Working as a Full Stack Developer @Infosolz Consultancy Pvt. Ltd.
+- 💻 Working as a Full Stack Developer @Infosolz Consultancy Services Pvt. Ltd.
 - 👀 I’m interested in : Web developement.
 - 🌱 I know : MEAN Stack || LAMP stack || MySql || MongoDB || HTML-5 || CSS-3 || JS (ES-6) || jQuery || AJAX
 - 💞️ I’m looking to collaborate on : projects on the above-mentioned topics.
