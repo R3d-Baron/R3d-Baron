@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnab Ghosh; Male; 28+;
-- 💻 Working as a MEAN Stack Developer @Shyam Future Tech Pvt. Ltd.
+- 💻 Working as a Software Development Engineer @ Digital Avenues Infotech Private Limited
 - 👀 I’m interested in : Web developement.
 - 🌱 I know : MEAN Stack || Node.js || Angular || MySql || MongoDB || HTML-5 || CSS-3 || JS || jQuery || AJAX
 - 💞️ I’m looking to collaborate on : projects on the above-mentioned topics.
