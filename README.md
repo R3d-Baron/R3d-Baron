@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Arnab Ghosh; Male; 28+;
-- 💻 Working as a Software Development Engineer @ Digital Avenues Infotech Private Limited
+- 💻 Working as a Software Development Engineer
+
 - 👀 I’m interested in : Web developement.
-- 🌱 I know : MEAN Stack || Node.js || Angular || MySql || MongoDB || HTML-5 || CSS-3 || JS || jQuery || AJAX
+
+- 🌱 I know : MEAN Stack || Node.js || Express || Angular || MySql || MongoDB || PgSql || Python || FastAPI || React || HTML-5 || CSS-3 || Javascript || TypeScript || jQuery || AJAX
+
 - 💞️ I’m looking to collaborate on : projects on the above-mentioned topics.
 - 📫 How to reach me: 
         Email me @ arnabtinku@gmail.com ; 
